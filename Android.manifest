@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3667819566
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui_popup
+      Dependencies: {}
